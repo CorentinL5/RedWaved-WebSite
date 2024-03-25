@@ -1,2 +1,2 @@
-# RedWaved-WebSite
- Red Waved Website with SVG's from haikei.app
+# RedWaved WebSite
+ [Red Waved Website](index.html) with SVG's from [Haikei.app](https://app.haikei.app/)
